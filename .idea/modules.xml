@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/movies-catalogue-service/movies-catalogue-service.iml" filepath="$PROJECT_DIR$/movies-catalogue-service/movies-catalogue-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movies-info-service/movies-info-service.iml" filepath="$PROJECT_DIR$/movies-info-service/movies-info-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/movies-services.iml" filepath="$PROJECT_DIR$/.idea/movies-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratings-data-service/ratings-data-service.iml" filepath="$PROJECT_DIR$/ratings-data-service/ratings-data-service.iml" />
+    </modules>
+  </component>
+</project>
